@@ -18,4 +18,4 @@ This project focuses on Exploratory Data Analysis (EDA) of Uber ride data. The g
 ## How to Run This Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/CodeHackWithSorif/uberData-Analysis.git
+   git clone https://github.com/CodeHackWithSorif/uberData_Analysis.git
